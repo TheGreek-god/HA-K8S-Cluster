@@ -1,7 +1,8 @@
 # 🚀 HA Kubernetes Cluster with HAProxy Load Balancer
 
-> A **Highly Available Kubernetes Cluster** setup with multiple control plane nodes and an **HAProxy Load Balancer** for enterprise-grade fault tolerance and reliability.  
-> This project demonstrates production-level Kubernetes architecture — built entirely with **Kind** (Kubernetes-in-Docker).
+ A **Highly Available Kubernetes Cluster** setup with multiple control plane nodes and an **HAProxy Load Balancer** for enterprise-grade fault tolerance and reliability. 
+ 
+ This project demonstrates production-level Kubernetes architecture — built entirely with **Kind** (Kubernetes-in-Docker).
 
 ---
 
